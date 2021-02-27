@@ -1,0 +1,10 @@
+name: chicago_crimes
+title: Chicago Crimes
+username:
+account: marchelo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3708318
+bundleId: 4279406
+url: https://marchelo.shinyapps.io/chicago_crimes/
+when: 1614449191.15089
